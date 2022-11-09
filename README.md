@@ -1,4 +1,4 @@
-# Debiased-Self-Training-for-Semi-supervised-Learning
+# Debiased-Self-Training-for-Semi-Supervised-Learning
 
 Code release of paper Debiased Self-Training for Semi-supervised Learning ([NeurIPS 2022 Oral](https://arxiv.org/abs/2202.07136)).
 
