@@ -14,11 +14,11 @@ Code release of paper Debiased Self-Training for Semi-Supervised Learning ([Neur
 
 #### 2022.11
 
-Code release.
+Code release. For usage, please see [Installation](#installation) part.
 
 | [Code of training-from-scratch experiments (standard SSL benchmarks)](https://github.com/thuml/Transfer-Learning-Library/tree/dev-ssl/projects/dst) |
 | ------------------------------------------------------------ |
-| [Code of fine-tuning experiments](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/semi_supervised_learning/image_classification) |
+| [**Code of fine-tuning experiments (ImageNet Pre-trained, ResNet50)**](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/semi_supervised_learning/image_classification) |
 
 ## Introduction
 
