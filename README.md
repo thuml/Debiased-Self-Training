@@ -25,7 +25,7 @@ Code release. For usage, please see [Installation](#installation) part.
 Debiased Self-Training (DST) tackles the bias issue in self-training process. DST can be implemented by only several lines of code and enjoys the following advantages.
 
 - DST significantly **boosts the performance** (18.9% over FixMatch on 13 tasks). Meanwhile, it helps **stabilize training** and **improves performance balance**.
-- DST can serve **as a general add-on** to mainstream self-training methods. Besides, the benefits of DST and recent popular techniques (dynamic thresholding, contrastive learning, etc.) are orthogonal.s
+- DST can serve **as a general add-on** to mainstream self-training methods. Besides, the benefits of DST and recent popular techniques (dynamic thresholding, contrastive learning, etc.) are orthogonal.
 
 Below, we briefly explain the main components of DST. For details, please refer to our paper. 
 
