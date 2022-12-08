@@ -2,9 +2,14 @@
 
 This repository contains the implementation code for paper: <br>
 __Debiased Self-Training for Semi-Supervised Learning__ <br>
-Baixu Chen, [Junguang Jiang](https://junguangjiang.github.io), [Ximei Wang](https://wxm17.github.io/), Pengfei Wan, [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/), [Jianmin Wang](http://ise.thss.tsinghua.edu.cn/~wangjianmin/)<br>
+Baixu Chen, [Junguang Jiang](https://junguangjiang.github.io), [Ximei Wang](https://wxm17.github.io/), Pengfei Wan, [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/), [Jianmin Wang](https://www.thss.tsinghua.edu.cn/faculty/wangjianmin.htm)<br>
 _Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022, Oral)_ <br>
 [[Project Page](https://github.com/thuml/Debiased-Self-Training)] [[OpenReview](https://openreview.net/forum?id=NI7moUOKtc)] [[Slide](https://neurips.cc/media/neurips-2022/Slides/55076.pdf)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/08f90c1a417155361a5c4b8d297e0d78.png?t=1666668047.4378536)]
+
+## Table of Contents
+
+<details>
+  <summary>Debiased Self-Training</summary>
 
 - [Updates](#updates)
 - [Introduction](#introduction)
@@ -13,6 +18,8 @@ _Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022,
 - [Contact](#contact)
 - [Citation](#citation)
 - [Acknowledgments](#acknowledgments)
+
+</details>
 
 ## Updates
 
