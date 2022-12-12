@@ -124,11 +124,11 @@ If you have any questions or want to use the code, please contact
 If you find this code useful, please cite our paper.
 
 ```
-@article{DST,
-    title={Debiased Self-Training for Semi-Supervised Learning},
-    author={Chen, Baixu and Jiang, Junguang and Wang, Ximei and Wang, Jianmin and Long, Mingsheng},
-    journal={arXiv preprint arXiv:2202.07136},
-    year={2022}
+@@inproceedings{DST,
+  	title={Debiased Self-Training for Semi-Supervised Learning},
+  	author={Chen, Baixu and Jiang, Junguang and Wang, Ximei and Wan, Pengfei and Wang, Jianmin and Long, Mingsheng},
+  	booktitle={Advances in Neural Information Processing Systems},
+  	year={2022}
 }
 ```
 
